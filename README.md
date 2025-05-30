@@ -13,10 +13,10 @@ Bu proje, bir tweet veri kümesi üzerinde duygu analizi (sentiment analysis) ge
 
 ```
 twitter_sentiment_analysis/
-├── twitter_sentiment_analysis.ipynb    # Açıklamalı Jupyter Notebook
-├── twitter.csv                          # Tweet veri kümesi
-├── README.md                            # Proje açıklaması
-├── requirements.txt                     # Gerekli kütüphaneler
+├── twitter_sentiment_analysis.ipynb    
+├── twitter.csv                          
+├── README.md                            
+├── requirements.txt                     
 ```
 
 ## ▶️ Nasıl Çalıştırılır
